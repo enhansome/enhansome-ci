@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "description": "Subscribe to receive notificatons with updates.",
+      "items": [],
+      "title": "List of Continuous Integration services"
+    },
+    {
+      "description": "There are a lot of cloud continuous integration services. All of them have a different set of functionalities, some of them require payment, some of them are for free. I have created a list of such services to make an easy comparison of them and choose a more suitable one for you.\nSome of the CI services have open source code thus you can set them up in standalone mode. Pay attention to the column \"Features\".\nThere is a similar comparison on Wikipedia.",
+      "items": [],
+      "title": "Introduction"
+    },
+    {
+      "description": "To the extent possible under law, Sergey Bronnikov has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:36:31.568Z",
+    "original_repository": "ligurio/awesome-ci",
+    "original_repository_sha": "d732e9b1172e271b5da04bc104a19ebe18b75b1b",
+    "enhanced_repository": "enhansome/enhansome-ci",
+    "enhanced_repository_description": null,
+    "title": "Awesome ci with stars"
+  }
+}
