@@ -1,7 +1,501 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Subscribe to receive notificatons with updates.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25857175,
+            "language": null,
+            "last_commit": "2026-07-29T08:45:17Z",
+            "owner": "ligurio",
+            "repo": "awesome-ci",
+            "stars": 4134
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Abstruse CI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84880847,
+                "language": "Go",
+                "last_commit": "2024-01-31T17:06:40Z",
+                "owner": "bleenco",
+                "repo": "abstruse",
+                "stars": 959
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Documentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84880847,
+                "language": "Go",
+                "last_commit": "2024-01-31T17:06:40Z",
+                "owner": "bleenco",
+                "repo": "abstruse",
+                "stars": 959
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agola",
+              "description": "Self-Hosted, Open Source CI/CD Platform Languages: everything GitHub, GitLab, Gitea Documentation Open Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188402099,
+                "language": "Go",
+                "last_commit": "2025-09-24T13:08:24Z",
+                "owner": "agola-io",
+                "repo": "agola",
+                "stars": 1621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Assertible",
+              "description": "Automated post-deployment testing and web service monitoring Example Integrations GitHub Documentation Free with limitations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62849812,
+                "language": null,
+                "last_commit": "2017-05-06T01:57:08Z",
+                "owner": "assertible",
+                "repo": "deployments",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bitrise",
+              "description": "Mobile Continuous Integration and Delivery. Source code is available GitHub, BitBucket, Gitlab, Custom Documentation Free with limitations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38150454,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:05:23Z",
+                "owner": "bitrise-io",
+                "repo": "bitrise",
+                "stars": 895
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Buildkite",
+              "description": "A build automation platform which gives you complete control, without the pain of running your own CI system. Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#Source code is available: Buildkite Agent GitHub, Bitbucket, GitLab, Custom Documentation 14-day Trial, Free for Education, Open Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16347164,
+                "language": "Go",
+                "last_commit": "2026-08-24T06:46:09Z",
+                "owner": "buildkite",
+                "repo": "agent",
+                "stars": 1047
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CDS",
+              "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform Languages: everything Github, Bitbucket Server, Gitlab Documentation Free Open Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70572539,
+                "language": "Go",
+                "last_commit": "2026-08-24T12:34:11Z",
+                "owner": "ovh",
+                "repo": "cds",
+                "stars": 4836
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dagger",
+              "description": "Application Delivery as Code that Runs Anywhere GitHub, GitLab, Gitea Documentation Open Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222824662,
+                "language": "Go",
+                "last_commit": "2026-08-24T08:20:56Z",
+                "owner": "dagger",
+                "repo": "dagger",
+                "stars": 16196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Drone",
+              "description": "Continuous Integration service Source code is available. (Community edition is licensed under Apache 2.0) GitHub, GitLab, Gitea, BitBucket, Google Code, Custom Documentation Pricing (enterprise) - free self hosting - Open Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16607898,
+                "language": "Go",
+                "last_commit": "2026-08-21T19:21:23Z",
+                "owner": "harness",
+                "repo": "harness",
+                "stars": 38105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evergreen",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36385798,
+                "language": "Go",
+                "last_commit": "2026-08-21T19:50:01Z",
+                "owner": "evergreen-ci",
+                "repo": "evergreen",
+                "stars": 450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Documentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36385798,
+                "language": "Go",
+                "last_commit": "2026-08-21T19:50:01Z",
+                "owner": "evergreen-ci",
+                "repo": "evergreen",
+                "stars": 450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Documentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107488421,
+                "language": "HTML",
+                "last_commit": "2023-01-03T21:27:12Z",
+                "owner": "FlowCI",
+                "repo": "docs",
+                "stars": 712
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open Source",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107504805,
+                "language": "Shell",
+                "last_commit": "2023-12-07T13:27:56Z",
+                "owner": "FlowCI",
+                "repo": "docker-install",
+                "stars": 404
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoCD",
+              "description": "Open source, on-premises continuous delivery tool. Git, Perforce, Mercurial,Subversion, TFS, Custom Documentation Open Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15155534,
+                "language": "Java",
+                "last_commit": "2026-08-22T15:13:05Z",
+                "owner": "gocd",
+                "repo": "gocd",
+                "stars": 7428
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gitlab-ci-local",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231806480,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T02:53:05Z",
+                "owner": "firecow",
+                "repo": "gitlab-ci-local",
+                "stars": 4059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Documentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231806480,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T02:53:05Z",
+                "owner": "firecow",
+                "repo": "gitlab-ci-local",
+                "stars": 4059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jaypore CI",
+              "description": "Simple, flexible, powerful; Like the city of Jaypore. Offline first, configured in python, any language that runs in Docker Gitea Documentation Open Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 573669112,
+                "language": "Go",
+                "last_commit": "2026-03-07T17:18:09Z",
+                "owner": "theSage21",
+                "repo": "jaypore_ci",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jenkins",
+              "description": "With thousands of plugins to choose from, Jenkins can help teams to automate any task that would otherwise put a time-consuming strain on your software team. Languages: Embedded, PHP, Python, Ruby, Java, Android, C/C++. Any VCS that supports git, mercurial, cvs, subversion Documentation Open Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103607,
+                "language": "Java",
+                "last_commit": "2026-08-24T00:53:02Z",
+                "owner": "jenkinsci",
+                "repo": "jenkins",
+                "stars": 26485
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kraken CI",
+              "description": "Self-hosted, open source, highly scalable, focused on testing. workflows with Starlark/Python, executors: bare metal, Docker, LXD, VM, highly scalable to thousands of executors, sophisticated test results analysis Git, GitHub Documentation Open Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280832057,
+                "language": "Python",
+                "last_commit": "2026-01-15T13:00:32Z",
+                "owner": "Kraken-CI",
+                "repo": "kraken",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laminar CI",
+              "description": "Fast and lightweight Continuous Integration Languages: any Documentation GPL-3.0 license",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42411444,
+                "language": "C++",
+                "last_commit": "2026-08-16T22:42:08Z",
+                "owner": "ohwgiles",
+                "repo": "laminar",
+                "stars": 353
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "minci",
+              "description": "minimal self-hosted CI Languages: any",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245178780,
+                "language": "C",
+                "last_commit": "2020-05-28T16:42:17Z",
+                "owner": "kristapsdz",
+                "repo": "minci",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PandaCI",
+              "description": "CI Platform where you code your workflows with TypeScript Open Source, Best-in-class DX and cloud native Github Documentation 6000 free monthly minutes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 941675326,
+                "language": "Go",
+                "last_commit": "2025-03-25T17:42:57Z",
+                "owner": "pandaci-com",
+                "repo": "PandaCI",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pipelight",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613524760,
+                "language": "Rust",
+                "last_commit": "2026-06-30T19:54:27Z",
+                "owner": "crocuda",
+                "repo": "pipelight",
+                "stars": 980
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Free & Open Source",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613524760,
+                "language": "Rust",
+                "last_commit": "2026-06-30T19:54:27Z",
+                "owner": "crocuda",
+                "repo": "pipelight",
+                "stars": 980
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Previs",
+              "description": "Use Travis configuration to run stuff locally in a clean environment. Everything that Travis support or almost Your computer, it's running locally! Documentation It's free! Since you are hosting everything locally on your computer!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147505634,
+                "language": "Go",
+                "last_commit": "2019-08-23T09:11:25Z",
+                "owner": "PaulRosset",
+                "repo": "previs",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scrutinizer",
+              "description": "Build quality software, better Sources are available GitHub, BitBucket Documentation 14-day Trial",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 7385407,
+                "language": null,
+                "last_commit": "2017-01-05T10:04:00Z",
+                "owner": "scrutinizer-ci",
+                "repo": "scrutinizer",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Semaphore CE",
+              "description": "Self-Hosted, Open-Source CI/CD platform Runs on Kubernetes or K3s. Scalable, fast, all languages supported GitHub, BitBucket, GitLab, Any Git-SCM server Documentation Free OSS (Apache-2)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 920024200,
+                "language": "Elixir",
+                "last_commit": "2026-08-24T11:06:18Z",
+                "owner": "semaphoreio",
+                "repo": "semaphore",
+                "stars": 1582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SonarQube",
+              "description": "\"Thousands of automated Static Code Analysis rules, protecting your app on multiple fronts\" 29 Languages: Java, Kotlin, C#, VB.NET, C, C++, JavaScript, TypeScript, php, Python, Terraform, CloudFormation, ABAP, Apex, COBOL, CSS, Flex, Go, HTML, Objective-C, PL/I, PL/SQL, RPG, Ruby, Scala, Swift, T-SQL, VB6, XML GitHub, Azure DevOps, Bitbucket, GitLab, Docker Support, Your IDE Documentation Free - with upgrade options",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222504,
+                "language": "Java",
+                "last_commit": "2026-08-22T20:06:02Z",
+                "owner": "SonarSource",
+                "repo": "sonarqube",
+                "stars": 10920
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tekton",
+              "description": "Cloud-native solution for building CI/CD pipelines It consists of Tekton Pipelines, which provides the building blocks (as Kubernetes Custom Resources you can use to create your pipelines), and of supporting components, such as Tekton CLI and Tekton Catalog, that make Tekton a complete ecosystem GitHub, Gitlab, Bitbucket... See triggers-examples, but extensible/customizable to support others Documentation Open Source, Apache 2.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193171705,
+                "language": "Go",
+                "last_commit": "2026-08-24T00:32:44Z",
+                "owner": "tektoncd",
+                "repo": "triggers",
+                "stars": 592
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Travis CI",
+              "description": "Hosted continuous integration service for open source and private projects. Languages: C, C++, Clojure, D, Erlang, Go, Groovy, Haskell, Java, Javascript (with Node.js), Objective-C, Perl, PHP, Python, Ruby, Rust, Scala. Source code is available. GitHub Documentation Pricing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1420493,
+                "language": null,
+                "last_commit": "2024-06-04T20:25:10Z",
+                "owner": "travis-ci",
+                "repo": "travis-ci",
+                "stars": 8487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Woodpecker",
+              "description": "Continuous Integration service Woodpecker is a community fork of the Drone CI system. GitHub, GitLab, Gitea, BitBucket, Custom Documentation Free Open Source (Apache License 2.0)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179344069,
+                "language": "Go",
+                "last_commit": "2026-08-24T12:31:30Z",
+                "owner": "woodpecker-ci",
+                "repo": "woodpecker",
+                "stars": 7738
+              }
+            }
+          ],
+          "description": "There are a lot of cloud continuous integration services. All of them have a different set of functionalities, some of them require payment, some of them are for free. I have created a list of such services to make an easy comparison of them and choose a more suitable one for you.\nSome of the CI services have open source code thus you can set them up in standalone mode. Pay attention to the column \"Features\".\nThere is a similar comparison on Wikipedia.",
+          "node_type": "group",
+          "title": "Introduction"
+        }
+      ],
+      "title": "List of Continuous Integration services"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T09:09:06.549Z",
+    "last_updated": "2026-08-24T13:59:44.289Z",
     "original_repository": "ligurio/awesome-ci",
     "original_repository_id": 25857175,
     "original_repository_sha": "d732e9b1172e271b5da04bc104a19ebe18b75b1b",
