@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 38150454,
                 "language": "Go",
-                "last_commit": "2026-08-24T14:28:19Z",
+                "last_commit": "2026-08-25T07:44:56Z",
                 "owner": "bitrise-io",
                 "repo": "bitrise",
-                "stars": 895
+                "stars": 896
               }
             },
             {
@@ -119,7 +119,7 @@
                 "archived": false,
                 "id": 70572539,
                 "language": "Go",
-                "last_commit": "2026-08-24T12:34:11Z",
+                "last_commit": "2026-08-25T08:48:45Z",
                 "owner": "ovh",
                 "repo": "cds",
                 "stars": 4836
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 222824662,
                 "language": "Go",
-                "last_commit": "2026-08-25T04:59:32Z",
+                "last_commit": "2026-08-25T08:22:38Z",
                 "owner": "dagger",
                 "repo": "dagger",
                 "stars": 16197
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-21T19:21:23Z",
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38110
+                "stars": 38117
               }
             },
             {
@@ -239,10 +239,10 @@
                 "archived": false,
                 "id": 231806480,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T02:53:05Z",
+                "last_commit": "2026-08-25T08:53:33Z",
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
-                "stars": 4059
+                "stars": 4060
               }
             },
             {
@@ -254,10 +254,10 @@
                 "archived": false,
                 "id": 231806480,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T02:53:05Z",
+                "last_commit": "2026-08-25T08:53:33Z",
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
-                "stars": 4059
+                "stars": 4060
               }
             },
             {
@@ -284,7 +284,7 @@
                 "archived": false,
                 "id": 1103607,
                 "language": "Java",
-                "last_commit": "2026-08-25T02:48:48Z",
+                "last_commit": "2026-08-25T06:14:33Z",
                 "owner": "jenkinsci",
                 "repo": "jenkins",
                 "stars": 26491
@@ -347,7 +347,7 @@
                 "last_commit": "2025-03-25T17:42:57Z",
                 "owner": "pandaci-com",
                 "repo": "PandaCI",
-                "stars": 79
+                "stars": 78
               }
             },
             {
@@ -419,7 +419,7 @@
                 "archived": false,
                 "id": 920024200,
                 "language": "Elixir",
-                "last_commit": "2026-08-25T01:49:48Z",
+                "last_commit": "2026-08-25T08:18:59Z",
                 "owner": "semaphoreio",
                 "repo": "semaphore",
                 "stars": 1583
@@ -437,7 +437,7 @@
                 "last_commit": "2026-08-24T20:09:36Z",
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10920
+                "stars": 10921
               }
             },
             {
@@ -482,7 +482,7 @@
                 "last_commit": "2026-08-25T05:21:19Z",
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
-                "stars": 7742
+                "stars": 7744
               }
             }
           ],
@@ -495,7 +495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:10.848Z",
+    "last_updated": "2026-08-25T09:03:46.715Z",
     "original_repository": "ligurio/awesome-ci",
     "original_repository_id": 25857175,
     "original_repository_sha": "d732e9b1172e271b5da04bc104a19ebe18b75b1b",
