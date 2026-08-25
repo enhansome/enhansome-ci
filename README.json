@@ -15,7 +15,7 @@
             "last_commit": "2026-07-29T08:45:17Z",
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4134
+            "stars": 4135
           }
         },
         {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 38150454,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:05:23Z",
+                "last_commit": "2026-08-24T14:28:19Z",
                 "owner": "bitrise-io",
                 "repo": "bitrise",
                 "stars": 895
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 16347164,
                 "language": "Go",
-                "last_commit": "2026-08-24T06:46:09Z",
+                "last_commit": "2026-08-25T04:19:59Z",
                 "owner": "buildkite",
                 "repo": "agent",
                 "stars": 1047
@@ -128,16 +128,16 @@
             {
               "node_type": "item",
               "title": "Dagger",
-              "description": "Application Delivery as Code that Runs Anywhere GitHub, GitLab, Gitea Documentation Open Source",
+              "description": "Application Delivery as Code that Runs Anywhere  GitHub, GitLab, Gitea Documentation Open Source",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 222824662,
                 "language": "Go",
-                "last_commit": "2026-08-24T08:20:56Z",
+                "last_commit": "2026-08-25T04:59:32Z",
                 "owner": "dagger",
                 "repo": "dagger",
-                "stars": 16196
+                "stars": 16197
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-21T19:21:23Z",
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38105
+                "stars": 38110
               }
             },
             {
@@ -164,7 +164,7 @@
                 "archived": false,
                 "id": 36385798,
                 "language": "Go",
-                "last_commit": "2026-08-21T19:50:01Z",
+                "last_commit": "2026-08-25T04:33:05Z",
                 "owner": "evergreen-ci",
                 "repo": "evergreen",
                 "stars": 450
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 36385798,
                 "language": "Go",
-                "last_commit": "2026-08-21T19:50:01Z",
+                "last_commit": "2026-08-25T04:33:05Z",
                 "owner": "evergreen-ci",
                 "repo": "evergreen",
                 "stars": 450
@@ -218,7 +218,7 @@
             {
               "node_type": "item",
               "title": "GoCD",
-              "description": "Open source, on-premises continuous delivery tool. Git, Perforce, Mercurial,Subversion, TFS, Custom Documentation Open Source",
+              "description": "Open source, on-premises continuous delivery tool.  Git, Perforce, Mercurial,Subversion, TFS, Custom Documentation Open Source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -227,7 +227,7 @@
                 "last_commit": "2026-08-22T15:13:05Z",
                 "owner": "gocd",
                 "repo": "gocd",
-                "stars": 7428
+                "stars": 7429
               }
             },
             {
@@ -284,10 +284,10 @@
                 "archived": false,
                 "id": 1103607,
                 "language": "Java",
-                "last_commit": "2026-08-24T00:53:02Z",
+                "last_commit": "2026-08-25T02:48:48Z",
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26485
+                "stars": 26491
               }
             },
             {
@@ -308,7 +308,7 @@
             {
               "node_type": "item",
               "title": "Laminar CI",
-              "description": "Fast and lightweight Continuous Integration Languages: any Documentation GPL-3.0 license",
+              "description": "Fast and lightweight Continuous Integration Languages: any  Documentation GPL-3.0 license",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -419,10 +419,10 @@
                 "archived": false,
                 "id": 920024200,
                 "language": "Elixir",
-                "last_commit": "2026-08-24T11:06:18Z",
+                "last_commit": "2026-08-25T01:49:48Z",
                 "owner": "semaphoreio",
                 "repo": "semaphore",
-                "stars": 1582
+                "stars": 1583
               }
             },
             {
@@ -434,7 +434,7 @@
                 "archived": false,
                 "id": 1222504,
                 "language": "Java",
-                "last_commit": "2026-08-22T20:06:02Z",
+                "last_commit": "2026-08-24T20:09:36Z",
                 "owner": "SonarSource",
                 "repo": "sonarqube",
                 "stars": 10920
@@ -479,10 +479,10 @@
                 "archived": false,
                 "id": 179344069,
                 "language": "Go",
-                "last_commit": "2026-08-24T12:31:30Z",
+                "last_commit": "2026-08-25T05:21:19Z",
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
-                "stars": 7738
+                "stars": 7742
               }
             }
           ],
@@ -495,7 +495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:44.289Z",
+    "last_updated": "2026-08-25T05:49:10.848Z",
     "original_repository": "ligurio/awesome-ci",
     "original_repository_id": 25857175,
     "original_repository_sha": "d732e9b1172e271b5da04bc104a19ebe18b75b1b",
