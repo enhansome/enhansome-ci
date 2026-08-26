@@ -15,7 +15,7 @@
             "last_commit": "2026-07-29T08:45:17Z",
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4135
+            "stars": 4134
           }
         },
         {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 38150454,
                 "language": "Go",
-                "last_commit": "2026-08-25T07:44:56Z",
+                "last_commit": "2026-08-26T08:51:13Z",
                 "owner": "bitrise-io",
                 "repo": "bitrise",
                 "stars": 896
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 16347164,
                 "language": "Go",
-                "last_commit": "2026-08-25T04:19:59Z",
+                "last_commit": "2026-08-26T07:33:33Z",
                 "owner": "buildkite",
                 "repo": "agent",
-                "stars": 1047
+                "stars": 1048
               }
             },
             {
@@ -119,10 +119,10 @@
                 "archived": false,
                 "id": 70572539,
                 "language": "Go",
-                "last_commit": "2026-08-25T08:48:45Z",
+                "last_commit": "2026-08-25T15:17:35Z",
                 "owner": "ovh",
                 "repo": "cds",
-                "stars": 4836
+                "stars": 4837
               }
             },
             {
@@ -134,10 +134,10 @@
                 "archived": false,
                 "id": 222824662,
                 "language": "Go",
-                "last_commit": "2026-08-25T08:22:38Z",
+                "last_commit": "2026-08-26T07:56:16Z",
                 "owner": "dagger",
                 "repo": "dagger",
-                "stars": 16197
+                "stars": 16198
               }
             },
             {
@@ -149,10 +149,10 @@
                 "archived": false,
                 "id": 16607898,
                 "language": "Go",
-                "last_commit": "2026-08-21T19:21:23Z",
+                "last_commit": "2026-08-26T05:01:38Z",
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38117
+                "stars": 38125
               }
             },
             {
@@ -164,7 +164,7 @@
                 "archived": false,
                 "id": 36385798,
                 "language": "Go",
-                "last_commit": "2026-08-25T04:33:05Z",
+                "last_commit": "2026-08-25T23:01:18Z",
                 "owner": "evergreen-ci",
                 "repo": "evergreen",
                 "stars": 450
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 36385798,
                 "language": "Go",
-                "last_commit": "2026-08-25T04:33:05Z",
+                "last_commit": "2026-08-25T23:01:18Z",
                 "owner": "evergreen-ci",
                 "repo": "evergreen",
                 "stars": 450
@@ -224,7 +224,7 @@
                 "archived": false,
                 "id": 15155534,
                 "language": "Java",
-                "last_commit": "2026-08-22T15:13:05Z",
+                "last_commit": "2026-08-26T05:44:11Z",
                 "owner": "gocd",
                 "repo": "gocd",
                 "stars": 7429
@@ -239,10 +239,10 @@
                 "archived": false,
                 "id": 231806480,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T08:53:33Z",
+                "last_commit": "2026-08-25T11:35:35Z",
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
-                "stars": 4060
+                "stars": 4063
               }
             },
             {
@@ -254,10 +254,10 @@
                 "archived": false,
                 "id": 231806480,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T08:53:33Z",
+                "last_commit": "2026-08-25T11:35:35Z",
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
-                "stars": 4060
+                "stars": 4063
               }
             },
             {
@@ -287,7 +287,7 @@
                 "last_commit": "2026-08-25T06:14:33Z",
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26491
+                "stars": 26497
               }
             },
             {
@@ -419,10 +419,10 @@
                 "archived": false,
                 "id": 920024200,
                 "language": "Elixir",
-                "last_commit": "2026-08-25T08:18:59Z",
+                "last_commit": "2026-08-26T08:42:36Z",
                 "owner": "semaphoreio",
                 "repo": "semaphore",
-                "stars": 1583
+                "stars": 1584
               }
             },
             {
@@ -434,10 +434,10 @@
                 "archived": false,
                 "id": 1222504,
                 "language": "Java",
-                "last_commit": "2026-08-24T20:09:36Z",
+                "last_commit": "2026-08-25T20:08:06Z",
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10921
+                "stars": 10925
               }
             },
             {
@@ -467,7 +467,7 @@
                 "last_commit": "2024-06-04T20:25:10Z",
                 "owner": "travis-ci",
                 "repo": "travis-ci",
-                "stars": 8487
+                "stars": 8486
               }
             },
             {
@@ -479,10 +479,10 @@
                 "archived": false,
                 "id": 179344069,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:21:19Z",
+                "last_commit": "2026-08-26T01:44:06Z",
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
-                "stars": 7744
+                "stars": 7750
               }
             }
           ],
@@ -495,7 +495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:03:46.715Z",
+    "last_updated": "2026-08-26T09:06:45.366Z",
     "original_repository": "ligurio/awesome-ci",
     "original_repository_id": 25857175,
     "original_repository_sha": "d732e9b1172e271b5da04bc104a19ebe18b75b1b",
