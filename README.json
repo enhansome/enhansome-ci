@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T13:23:55Z",
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4135
-          }
+            "stars": 4134
+          },
+          "first_seen": "2026-08-28T20:14:39.336Z"
         },
         {
           "children": [
@@ -33,7 +34,8 @@
                 "owner": "bleenco",
                 "repo": "abstruse",
                 "stars": 959
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "bleenco",
                 "repo": "abstruse",
                 "stars": 959
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "agola-io",
                 "repo": "agola",
                 "stars": 1621
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "assertible",
                 "repo": "deployments",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -89,11 +94,12 @@
                 "archived": false,
                 "id": 38150454,
                 "language": "Go",
-                "last_commit": "2026-08-27T13:14:04Z",
+                "last_commit": "2026-08-28T15:18:35Z",
                 "owner": "bitrise-io",
                 "repo": "bitrise",
                 "stars": 896
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -104,11 +110,12 @@
                 "archived": false,
                 "id": 16347164,
                 "language": "Go",
-                "last_commit": "2026-08-27T12:02:19Z",
+                "last_commit": "2026-08-28T13:06:16Z",
                 "owner": "buildkite",
                 "repo": "agent",
-                "stars": 1048
-              }
+                "stars": 1049
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -119,11 +126,12 @@
                 "archived": false,
                 "id": 70572539,
                 "language": "Go",
-                "last_commit": "2026-08-27T15:29:29Z",
+                "last_commit": "2026-08-28T14:21:42Z",
                 "owner": "ovh",
                 "repo": "cds",
                 "stars": 4837
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -134,11 +142,12 @@
                 "archived": false,
                 "id": 222824662,
                 "language": "Go",
-                "last_commit": "2026-08-27T17:32:38Z",
+                "last_commit": "2026-08-28T20:02:10Z",
                 "owner": "dagger",
                 "repo": "dagger",
-                "stars": 16205
-              }
+                "stars": 16211
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -149,11 +158,12 @@
                 "archived": false,
                 "id": 16607898,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:04:39Z",
+                "last_commit": "2026-08-28T09:35:43Z",
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38145
-              }
+                "stars": 38154
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -164,11 +174,12 @@
                 "archived": false,
                 "id": 36385798,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:07:40Z",
+                "last_commit": "2026-08-28T20:07:53Z",
                 "owner": "evergreen-ci",
                 "repo": "evergreen",
                 "stars": 450
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -179,11 +190,12 @@
                 "archived": false,
                 "id": 36385798,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:07:40Z",
+                "last_commit": "2026-08-28T20:07:53Z",
                 "owner": "evergreen-ci",
                 "repo": "evergreen",
                 "stars": 450
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "FlowCI",
                 "repo": "docs",
                 "stars": 712
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "FlowCI",
                 "repo": "docker-install",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -224,11 +238,12 @@
                 "archived": false,
                 "id": 15155534,
                 "language": "Java",
-                "last_commit": "2026-08-26T05:44:11Z",
+                "last_commit": "2026-08-28T17:07:22Z",
                 "owner": "gocd",
                 "repo": "gocd",
-                "stars": 7431
-              }
+                "stars": 7432
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
                 "stars": 4068
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
                 "stars": 4068
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "theSage21",
                 "repo": "jaypore_ci",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -284,11 +302,12 @@
                 "archived": false,
                 "id": 1103607,
                 "language": "Java",
-                "last_commit": "2026-08-27T01:53:12Z",
+                "last_commit": "2026-08-27T19:36:15Z",
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26506
-              }
+                "stars": 26512
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "Kraken-CI",
                 "repo": "kraken",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "ohwgiles",
                 "repo": "laminar",
                 "stars": 353
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "kristapsdz",
                 "repo": "minci",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -348,7 +370,8 @@
                 "owner": "pandaci-com",
                 "repo": "PandaCI",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -363,7 +386,8 @@
                 "owner": "crocuda",
                 "repo": "pipelight",
                 "stars": 981
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -378,7 +402,8 @@
                 "owner": "crocuda",
                 "repo": "pipelight",
                 "stars": 981
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -393,7 +418,8 @@
                 "owner": "PaulRosset",
                 "repo": "previs",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -408,7 +434,8 @@
                 "owner": "antirez",
                 "repo": "recidiv",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -423,7 +450,8 @@
                 "owner": "scrutinizer-ci",
                 "repo": "scrutinizer",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -434,11 +462,12 @@
                 "archived": false,
                 "id": 920024200,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T17:34:43Z",
+                "last_commit": "2026-08-28T18:59:19Z",
                 "owner": "semaphoreio",
                 "repo": "semaphore",
-                "stars": 1586
-              }
+                "stars": 1587
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -449,11 +478,12 @@
                 "archived": false,
                 "id": 1222504,
                 "language": "Java",
-                "last_commit": "2026-08-26T20:48:29Z",
+                "last_commit": "2026-08-28T11:07:36Z",
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10933
-              }
+                "stars": 10936
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -468,7 +498,8 @@
                 "owner": "tektoncd",
                 "repo": "triggers",
                 "stars": 592
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -483,7 +514,8 @@
                 "owner": "travis-ci",
                 "repo": "travis-ci",
                 "stars": 8486
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             },
             {
               "node_type": "item",
@@ -497,8 +529,9 @@
                 "last_commit": "2026-08-27T11:29:23Z",
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
-                "stars": 7761
-              }
+                "stars": 7768
+              },
+              "first_seen": "2026-08-28T20:14:39.336Z"
             }
           ],
           "description": "There are a lot of cloud continuous integration services. All of them have a different set of functionalities, some of them require payment, some of them are for free. I have created a list of such services to make an easy comparison of them and choose a more suitable one for you.\nSome of the CI services have open source code thus you can set them up in standalone mode. Pay attention to the column \"Features\".\nThere is a similar comparison on Wikipedia.",
@@ -510,7 +543,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:09:00.445Z",
+    "last_updated": "2026-08-28T20:14:39.336Z",
     "original_repository_info": {
       "archived": false,
       "id": 25857175,
@@ -518,7 +551,7 @@
       "last_commit": "2026-08-27T13:23:55Z",
       "owner": "ligurio",
       "repo": "awesome-ci",
-      "stars": 4135
+      "stars": 4134
     },
     "original_repository_sha": "e70037395d707e4da7270c1496c38560a3d096a9",
     "enhanced_repository": "enhansome/enhansome-ci",
