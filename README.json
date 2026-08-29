@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The list of continuous integration services and tools",
+            "homepage": "https://ligurio.github.io/awesome-ci/",
             "id": 25857175,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T13:23:55Z",
+            "open_issues": 20,
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4134
+            "stars": 4134,
+            "topics": [
+              "awesome",
+              "ci",
+              "comparison",
+              "continuous-integration",
+              "developer-tools",
+              "development",
+              "devops"
+            ]
           },
           "first_seen": "2026-08-28T20:14:39.336Z"
         },
@@ -28,12 +41,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Abstruse is a free and open-source CI/CD platform that tests your models and code.",
+                "homepage": "https://ci.abstruse.app",
                 "id": 84880847,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-01-31T17:06:40Z",
+                "open_issues": 36,
                 "owner": "bleenco",
                 "repo": "abstruse",
-                "stars": 959
+                "stars": 959,
+                "topics": [
+                  "cd",
+                  "ci",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "continuous-testing",
+                  "docker",
+                  "dockerized",
+                  "server",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -44,12 +73,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Abstruse is a free and open-source CI/CD platform that tests your models and code.",
+                "homepage": "https://ci.abstruse.app",
                 "id": 84880847,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-01-31T17:06:40Z",
+                "open_issues": 36,
                 "owner": "bleenco",
                 "repo": "abstruse",
-                "stars": 959
+                "stars": 959,
+                "topics": [
+                  "cd",
+                  "ci",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "continuous-testing",
+                  "docker",
+                  "dockerized",
+                  "server",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -60,12 +105,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agola: CI/CD Redefined",
+                "homepage": "https://agola.io",
                 "id": 188402099,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-24T13:08:24Z",
+                "open_issues": 71,
                 "owner": "agola-io",
                 "repo": "agola",
-                "stars": 1621
+                "stars": 1621,
+                "topics": [
+                  "ci-cd",
+                  "cicd",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "devops",
+                  "distributed",
+                  "docker",
+                  "git",
+                  "gitea",
+                  "github",
+                  "gitlab",
+                  "golang",
+                  "high-availability",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -76,12 +142,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configurations for GitHub post-deployment testing with Assertible via CI",
+                "homepage": "https://assertible.com",
                 "id": 62849812,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2017-05-06T01:57:08Z",
+                "open_issues": 2,
                 "owner": "assertible",
                 "repo": "deployments",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "api-testing",
+                  "ci-automation",
+                  "circleci",
+                  "continuous-integration",
+                  "continuous-testing",
+                  "delivery-pipeline",
+                  "deployments",
+                  "testing",
+                  "travis-ci",
+                  "wercker"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -92,12 +174,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitrise runner CLI - run your automations on your Mac or Linux machine -",
+                "homepage": "https://www.bitrise.io/cli",
                 "id": 38150454,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:18:35Z",
+                "open_issues": 29,
                 "owner": "bitrise-io",
                 "repo": "bitrise",
-                "stars": 896
+                "stars": 896,
+                "topics": [
+                  "bitrise",
+                  "cli",
+                  "production-code"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -108,12 +199,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network",
+                "homepage": "https://buildkite.com/",
                 "id": 16347164,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:06:16Z",
+                "open_issues": 191,
                 "owner": "buildkite",
                 "repo": "agent",
-                "stars": 1049
+                "stars": 1049,
+                "topics": [
+                  "buildkite",
+                  "cicd",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "docker",
+                  "go",
+                  "llamas"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -124,12 +229,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+                "homepage": "https://ovh.github.io/cds/",
                 "id": 70572539,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T14:21:42Z",
+                "open_issues": 159,
                 "owner": "ovh",
                 "repo": "cds",
-                "stars": 4837
+                "stars": 4837,
+                "topics": [
+                  "automation",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "devops",
+                  "devops-workflow",
+                  "golang",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -140,12 +259,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud",
+                "homepage": "https://dagger.io",
                 "id": 222824662,
                 "language": "Go",
-                "last_commit": "2026-08-28T20:02:10Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:58:35Z",
+                "open_issues": 142,
                 "owner": "dagger",
                 "repo": "dagger",
-                "stars": 16211
+                "stars": 16211,
+                "topics": [
+                  "agents",
+                  "caching",
+                  "ci-cd",
+                  "containers",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "devops",
+                  "docker",
+                  "graphql",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -156,12 +291,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
+                "homepage": "https://www.harness.io/open-source",
                 "id": 16607898,
                 "language": "Go",
-                "last_commit": "2026-08-28T09:35:43Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:12:09Z",
+                "open_issues": 103,
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38154
+                "stars": 38157,
+                "topics": [
+                  "build-automation",
+                  "build-pipelines",
+                  "ci",
+                  "ci-cd",
+                  "code-repository",
+                  "continuous-delivery",
+                  "continuous-integration",
+                  "docker",
+                  "git",
+                  "go",
+                  "hacktoberfest",
+                  "scm"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -172,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Distributed Continuous Integration System from MongoDB",
+                "homepage": "https://docs.devprod.prod.corp.mongodb.com/evergreen/Home/",
                 "id": 36385798,
                 "language": "Go",
-                "last_commit": "2026-08-28T20:07:53Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:25:32Z",
+                "open_issues": 21,
                 "owner": "evergreen-ci",
                 "repo": "evergreen",
-                "stars": 450
+                "stars": 450,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -188,12 +346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Distributed Continuous Integration System from MongoDB",
+                "homepage": "https://docs.devprod.prod.corp.mongodb.com/evergreen/Home/",
                 "id": 36385798,
                 "language": "Go",
-                "last_commit": "2026-08-28T20:07:53Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:25:32Z",
+                "open_issues": 21,
                 "owner": "evergreen-ci",
                 "repo": "evergreen",
-                "stars": 450
+                "stars": 450,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -204,12 +367,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "flow.ci user guide",
+                "homepage": null,
                 "id": 107488421,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-03T21:27:12Z",
+                "open_issues": 17,
                 "owner": "FlowCI",
                 "repo": "docs",
-                "stars": 712
+                "stars": 712,
+                "topics": [
+                  "cicd",
+                  "devops",
+                  "document"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -220,12 +392,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How to install flow.ci from docker",
+                "homepage": "https://flowci.github.io",
                 "id": 107504805,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2023-12-07T13:27:56Z",
+                "open_issues": 2,
                 "owner": "FlowCI",
                 "repo": "docker-install",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "cicd",
+                  "devops",
+                  "docker",
+                  "flow"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -236,12 +418,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GoCD - Continuous Delivery server main repository",
+                "homepage": "https://www.gocd.org",
                 "id": 15155534,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:07:22Z",
+                "open_issues": 82,
                 "owner": "gocd",
                 "repo": "gocd",
-                "stars": 7432
+                "stars": 7432,
+                "topics": [
+                  "cd",
+                  "ci",
+                  "ci-cd",
+                  "continuous-delivery",
+                  "continuous-delivery-server",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "continuous-testing",
+                  "gocd",
+                  "infrastructure-as-code"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -252,12 +450,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tired of pushing to test your .gitlab-ci.yml?",
+                "homepage": null,
                 "id": 231806480,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T18:46:05Z",
+                "open_issues": 45,
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
-                "stars": 4068
+                "stars": 4068,
+                "topics": [
+                  "cd",
+                  "ci",
+                  "git",
+                  "gitlab",
+                  "gitlab-ci",
+                  "local",
+                  "pipeline",
+                  "push",
+                  "uncomitted",
+                  "untracked"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -268,12 +482,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tired of pushing to test your .gitlab-ci.yml?",
+                "homepage": null,
                 "id": 231806480,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T18:46:05Z",
+                "open_issues": 45,
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
-                "stars": 4068
+                "stars": 4068,
+                "topics": [
+                  "cd",
+                  "ci",
+                  "git",
+                  "gitlab",
+                  "gitlab-ci",
+                  "local",
+                  "pipeline",
+                  "push",
+                  "uncomitted",
+                  "untracked"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -284,12 +514,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small, very flexible, powerful CI system. Works offline and is configured in Python.",
+                "homepage": "https://www.jayporeci.in",
                 "id": 573669112,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-07T17:18:09Z",
+                "open_issues": 1,
                 "owner": "theSage21",
                 "repo": "jaypore_ci",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "cicd",
+                  "gitea",
+                  "offline",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -300,12 +540,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jenkins automation server",
+                "homepage": "https://www.jenkins.io",
                 "id": 1103607,
                 "language": "Java",
-                "last_commit": "2026-08-27T19:36:15Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:39:56Z",
+                "open_issues": 3612,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26512
+                "stars": 26513,
+                "topics": [
+                  "cicd",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "devops",
+                  "groovy",
+                  "hacktoberfest",
+                  "java",
+                  "jenkins",
+                  "pipelines-as-code"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -316,12 +572,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kraken CI is a continuous integration and testing system.",
+                "homepage": "https://kraken.ci/",
                 "id": 280832057,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-15T13:00:32Z",
+                "open_issues": 96,
                 "owner": "Kraken-CI",
                 "repo": "kraken",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "build-automation",
+                  "cicd",
+                  "continuous-integration",
+                  "continuous-testing",
+                  "devops",
+                  "mlops",
+                  "reporting",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -332,12 +602,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and lightweight Continuous Integration",
+                "homepage": "https://laminar.ohwg.net",
                 "id": 42411444,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-16T22:42:08Z",
+                "open_issues": 16,
                 "owner": "ohwgiles",
                 "repo": "laminar",
-                "stars": 353
+                "stars": 353,
+                "topics": [
+                  "continuous-integration",
+                  "cpp",
+                  "laminar",
+                  "lightweight"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -348,12 +628,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal CI for BSD.lv",
+                "homepage": null,
                 "id": 245178780,
                 "language": "C",
+                "license": "ISC",
                 "last_commit": "2020-05-28T16:42:17Z",
+                "open_issues": 0,
                 "owner": "kristapsdz",
                 "repo": "minci",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "bchs",
+                  "ci"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -364,12 +652,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern CI/CD platform where you code your pipelines with TypeScript",
+                "homepage": "https://pandaci.com",
                 "id": 941675326,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-03-25T17:42:57Z",
+                "open_issues": 4,
                 "owner": "pandaci-com",
                 "repo": "PandaCI",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "ci-cd",
+                  "cicd",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "devops",
+                  "docker",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -380,12 +681,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.",
+                "homepage": "https://pipelight.dev",
                 "id": 613524760,
                 "language": "Rust",
+                "license": "GPL-2.0",
                 "last_commit": "2026-06-30T19:54:27Z",
+                "open_issues": 18,
                 "owner": "crocuda",
                 "repo": "pipelight",
-                "stars": 981
+                "stars": 981,
+                "topics": [
+                  "automation",
+                  "bash",
+                  "cicd",
+                  "docker",
+                  "git",
+                  "pipeline",
+                  "rust",
+                  "toml",
+                  "typescript",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -396,12 +713,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.",
+                "homepage": "https://pipelight.dev",
                 "id": 613524760,
                 "language": "Rust",
+                "license": "GPL-2.0",
                 "last_commit": "2026-06-30T19:54:27Z",
+                "open_issues": 18,
                 "owner": "crocuda",
                 "repo": "pipelight",
-                "stars": 981
+                "stars": 981,
+                "topics": [
+                  "automation",
+                  "bash",
+                  "cicd",
+                  "docker",
+                  "git",
+                  "pipeline",
+                  "rust",
+                  "toml",
+                  "typescript",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -412,12 +745,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎯 Testing your project locally in a clean environment.",
+                "homepage": null,
                 "id": 147505634,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-08-23T09:11:25Z",
+                "open_issues": 3,
                 "owner": "PaulRosset",
                 "repo": "previs",
-                "stars": 322
+                "stars": 322,
+                "topics": [
+                  "ci",
+                  "continuous-testing",
+                  "devops",
+                  "devops-tools",
+                  "docker",
+                  "local",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -428,12 +774,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "minimal continuous integration framework written in Tcl (used for Redis CI)",
+                "homepage": null,
                 "id": 2005834,
                 "language": "Tcl",
+                "license": null,
                 "last_commit": "2016-02-05T11:05:33Z",
+                "open_issues": 0,
                 "owner": "antirez",
                 "repo": "recidiv",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -444,12 +795,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Legacy repository - archives past feature requests/bug reports",
+                "homepage": "https://scrutinizer-ci.com/docs",
                 "id": 7385407,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-01-05T10:04:00Z",
+                "open_issues": 175,
                 "owner": "scrutinizer-ci",
                 "repo": "scrutinizer",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -460,12 +816,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All-in-one delivery platform for AI-driven development.",
+                "homepage": "https://semaphore.io",
                 "id": 920024200,
                 "language": "Elixir",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:59:19Z",
+                "open_issues": 173,
                 "owner": "semaphoreio",
                 "repo": "semaphore",
-                "stars": 1587
+                "stars": 1587,
+                "topics": [
+                  "build-pipelines",
+                  "cd",
+                  "ci",
+                  "continuous-delivery",
+                  "continuous-integration",
+                  "elixir",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -476,12 +845,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Continuous Inspection",
+                "homepage": "http://www.sonarqube.org",
                 "id": 1222504,
                 "language": "Java",
-                "last_commit": "2026-08-28T11:07:36Z",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-08-28T22:00:03Z",
+                "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10936
+                "stars": 10937,
+                "topics": [
+                  "code-quality",
+                  "sonarqube",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -492,12 +870,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event triggering with Tekton!",
+                "homepage": null,
                 "id": 193171705,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T11:22:51Z",
+                "open_issues": 80,
                 "owner": "tektoncd",
                 "repo": "triggers",
-                "stars": 592
+                "stars": 592,
+                "topics": [
+                  "hacktoberfest",
+                  "pipelines",
+                  "tekton",
+                  "triggers"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -508,12 +896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free continuous integration platform for GitHub projects.",
+                "homepage": "https://travis-ci.org",
                 "id": 1420493,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-04T20:25:10Z",
+                "open_issues": 126,
                 "owner": "travis-ci",
                 "repo": "travis-ci",
-                "stars": 8486
+                "stars": 8486,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             },
@@ -524,12 +917,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",
+                "homepage": "https://woodpecker-ci.org",
                 "id": 179344069,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:29:23Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:48:09Z",
+                "open_issues": 368,
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
-                "stars": 7768
+                "stars": 7771,
+                "topics": [
+                  "automation",
+                  "ci",
+                  "cicd",
+                  "devops",
+                  "docker",
+                  "kubernetes",
+                  "woodpeckerci"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
             }
@@ -543,15 +949,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:14:39.336Z",
+    "last_updated": "2026-08-29T04:17:15.960Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The list of continuous integration services and tools",
+      "homepage": "https://ligurio.github.io/awesome-ci/",
       "id": 25857175,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-27T13:23:55Z",
+      "open_issues": 20,
       "owner": "ligurio",
       "repo": "awesome-ci",
-      "stars": 4134
+      "stars": 4134,
+      "topics": [
+        "awesome",
+        "ci",
+        "comparison",
+        "continuous-integration",
+        "developer-tools",
+        "development",
+        "devops"
+      ]
     },
     "original_repository_sha": "e70037395d707e4da7270c1496c38560a3d096a9",
     "enhanced_repository": "enhansome/enhansome-ci",
