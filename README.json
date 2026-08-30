@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4134,
+            "stars": 4135,
             "topics": [
               "awesome",
               "ci",
@@ -179,7 +179,7 @@
                 "id": 38150454,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T15:18:35Z",
+                "last_commit": "2026-08-30T03:16:40Z",
                 "open_issues": 29,
                 "owner": "bitrise-io",
                 "repo": "bitrise",
@@ -264,8 +264,8 @@
                 "id": 222824662,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T04:55:30Z",
-                "open_issues": 145,
+                "last_commit": "2026-08-30T08:40:00Z",
+                "open_issues": 146,
                 "owner": "dagger",
                 "repo": "dagger",
                 "stars": 16213,
@@ -300,7 +300,7 @@
                 "open_issues": 103,
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38163,
+                "stars": 38171,
                 "topics": [
                   "build-automation",
                   "build-pipelines",
@@ -423,7 +423,7 @@
                 "id": 15155534,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T17:07:22Z",
+                "last_commit": "2026-08-30T07:24:30Z",
                 "open_issues": 82,
                 "owner": "gocd",
                 "repo": "gocd",
@@ -546,10 +546,10 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-08-29T00:39:56Z",
-                "open_issues": 3614,
+                "open_issues": 3613,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26513,
+                "stars": 26515,
                 "topics": [
                   "cicd",
                   "continuous-delivery",
@@ -825,7 +825,7 @@
                 "open_issues": 173,
                 "owner": "semaphoreio",
                 "repo": "semaphore",
-                "stars": 1587,
+                "stars": 1590,
                 "topics": [
                   "build-pipelines",
                   "cd",
@@ -854,7 +854,7 @@
                 "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10937,
+                "stars": 10940,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -905,7 +905,7 @@
                 "open_issues": 126,
                 "owner": "travis-ci",
                 "repo": "travis-ci",
-                "stars": 8486,
+                "stars": 8487,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
@@ -922,11 +922,11 @@
                 "id": 179344069,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T09:04:12Z",
-                "open_issues": 369,
+                "last_commit": "2026-08-30T12:40:36Z",
+                "open_issues": 368,
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
-                "stars": 7775,
+                "stars": 7784,
                 "topics": [
                   "automation",
                   "ci",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:52:27.573Z",
+    "last_updated": "2026-08-30T13:51:07.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "The list of continuous integration services and tools",
@@ -961,7 +961,7 @@
       "open_issues": 20,
       "owner": "ligurio",
       "repo": "awesome-ci",
-      "stars": 4134,
+      "stars": 4135,
       "topics": [
         "awesome",
         "ci",
