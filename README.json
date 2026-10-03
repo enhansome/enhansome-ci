@@ -4,40 +4,11 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Subscribe to receive notificatons with updates.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The list of continuous integration services and tools",
-            "homepage": "https://ligurio.github.io/awesome-ci/",
-            "id": 25857175,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-27T13:23:55Z",
-            "open_issues": 23,
-            "owner": "ligurio",
-            "repo": "awesome-ci",
-            "stars": 4153,
-            "topics": [
-              "awesome",
-              "ci",
-              "comparison",
-              "continuous-integration",
-              "developer-tools",
-              "development",
-              "devops"
-            ]
-          },
-          "first_seen": "2026-08-28T20:14:39.336Z"
-        },
-        {
           "children": [
             {
               "node_type": "item",
               "title": "Abstruse CI",
-              "description": null,
+              "description": "bleenco/abstruse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -69,7 +40,7 @@
             {
               "node_type": "item",
               "title": "Documentation",
-              "description": null,
+              "description": "bleenco/abstruse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -208,7 +179,7 @@
                 "open_issues": 211,
                 "owner": "buildkite",
                 "repo": "agent",
-                "stars": 1086,
+                "stars": 1088,
                 "topics": [
                   "buildkite",
                   "cicd",
@@ -235,10 +206,10 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-30T13:24:31Z",
-                "open_issues": 162,
+                "open_issues": 163,
                 "owner": "ovh",
                 "repo": "cds",
-                "stars": 4846,
+                "stars": 4845,
                 "topics": [
                   "automation",
                   "continuous-delivery",
@@ -264,8 +235,8 @@
                 "id": 222824662,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T03:21:05Z",
-                "open_issues": 198,
+                "last_commit": "2026-10-03T03:53:18Z",
+                "open_issues": 203,
                 "owner": "dagger",
                 "repo": "dagger",
                 "stars": 16313,
@@ -296,11 +267,11 @@
                 "id": 16607898,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T08:07:16Z",
+                "last_commit": "2026-10-02T22:27:42Z",
                 "open_issues": 116,
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38476,
+                "stars": 38480,
                 "topics": [
                   "build-automation",
                   "build-pipelines",
@@ -321,7 +292,7 @@
             {
               "node_type": "item",
               "title": "Evergreen",
-              "description": null,
+              "description": "evergreen-ci/evergreen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -330,8 +301,8 @@
                 "id": 36385798,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:10:20Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-02T22:23:32Z",
+                "open_issues": 23,
                 "owner": "evergreen-ci",
                 "repo": "evergreen",
                 "stars": 449,
@@ -342,7 +313,7 @@
             {
               "node_type": "item",
               "title": "Documentation",
-              "description": null,
+              "description": "evergreen-ci/evergreen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -351,8 +322,8 @@
                 "id": 36385798,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:10:20Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-02T22:23:32Z",
+                "open_issues": 23,
                 "owner": "evergreen-ci",
                 "repo": "evergreen",
                 "stars": 449,
@@ -363,7 +334,7 @@
             {
               "node_type": "item",
               "title": "Documentation",
-              "description": null,
+              "description": "FlowCI/docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -388,7 +359,7 @@
             {
               "node_type": "item",
               "title": "Open Source",
-              "description": null,
+              "description": "FlowCI/docker-install",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -446,7 +417,7 @@
             {
               "node_type": "item",
               "title": "gitlab-ci-local",
-              "description": null,
+              "description": "firecow/gitlab-ci-local",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,7 +427,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T10:28:09Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
                 "stars": 4101,
@@ -478,7 +449,7 @@
             {
               "node_type": "item",
               "title": "Documentation",
-              "description": null,
+              "description": "firecow/gitlab-ci-local",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -488,7 +459,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T10:28:09Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
                 "stars": 4101,
@@ -545,11 +516,11 @@
                 "id": 1103607,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:27:16Z",
-                "open_issues": 3615,
+                "last_commit": "2026-10-03T00:43:27Z",
+                "open_issues": 3620,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26610,
+                "stars": 26616,
                 "topics": [
                   "cicd",
                   "continuous-delivery",
@@ -677,7 +648,7 @@
             {
               "node_type": "item",
               "title": "Pipelight",
-              "description": null,
+              "description": "crocuda/pipelight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -709,7 +680,7 @@
             {
               "node_type": "item",
               "title": "Free & Open Source",
-              "description": null,
+              "description": "crocuda/pipelight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -754,7 +725,7 @@
                 "open_issues": 3,
                 "owner": "PaulRosset",
                 "repo": "previs",
-                "stars": 321,
+                "stars": 319,
                 "topics": [
                   "ci",
                   "continuous-testing",
@@ -821,11 +792,11 @@
                 "id": 920024200,
                 "language": "Elixir",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T13:16:35Z",
-                "open_issues": 180,
+                "last_commit": "2026-10-02T15:24:37Z",
+                "open_issues": 179,
                 "owner": "semaphoreio",
                 "repo": "semaphore",
-                "stars": 1611,
+                "stars": 1612,
                 "topics": [
                   "build-pipelines",
                   "cd",
@@ -850,11 +821,11 @@
                 "id": 1222504,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-01T20:12:15Z",
+                "last_commit": "2026-10-02T20:09:48Z",
                 "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 11042,
+                "stars": 11043,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -922,8 +893,8 @@
                 "id": 179344069,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T13:29:08Z",
-                "open_issues": 389,
+                "last_commit": "2026-10-03T00:55:59Z",
+                "open_issues": 391,
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
                 "stars": 7943,
@@ -949,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:47:52.027Z",
+    "last_updated": "2026-10-03T04:36:51.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "The list of continuous integration services and tools",
@@ -961,7 +932,7 @@
       "open_issues": 23,
       "owner": "ligurio",
       "repo": "awesome-ci",
-      "stars": 4153,
+      "stars": 4154,
       "topics": [
         "awesome",
         "ci",
