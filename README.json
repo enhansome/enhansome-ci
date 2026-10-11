@@ -235,11 +235,11 @@
                 "id": 222824662,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T14:24:05Z",
-                "open_issues": 209,
+                "last_commit": "2026-10-10T22:20:44Z",
+                "open_issues": 211,
                 "owner": "dagger",
                 "repo": "dagger",
-                "stars": 16334,
+                "stars": 16335,
                 "topics": [
                   "agents",
                   "caching",
@@ -271,7 +271,7 @@
                 "open_issues": 117,
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38510,
+                "stars": 38516,
                 "topics": [
                   "build-automation",
                   "build-pipelines",
@@ -394,11 +394,11 @@
                 "id": 15155534,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T06:03:44Z",
+                "last_commit": "2026-10-11T09:52:14Z",
                 "open_issues": 87,
                 "owner": "gocd",
                 "repo": "gocd",
-                "stars": 7431,
+                "stars": 7430,
                 "topics": [
                   "cd",
                   "ci",
@@ -430,7 +430,7 @@
                 "open_issues": 44,
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
-                "stars": 4112,
+                "stars": 4114,
                 "topics": [
                   "cd",
                   "ci",
@@ -462,7 +462,7 @@
                 "open_issues": 44,
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
-                "stars": 4112,
+                "stars": 4114,
                 "topics": [
                   "cd",
                   "ci",
@@ -516,11 +516,11 @@
                 "id": 1103607,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-10T12:22:37Z",
-                "open_issues": 3606,
+                "last_commit": "2026-10-11T07:58:03Z",
+                "open_issues": 3591,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26636,
+                "stars": 26640,
                 "topics": [
                   "cicd",
                   "continuous-delivery",
@@ -796,7 +796,7 @@
                 "open_issues": 192,
                 "owner": "semaphoreio",
                 "repo": "semaphore",
-                "stars": 1620,
+                "stars": 1621,
                 "topics": [
                   "build-pipelines",
                   "cd",
@@ -825,7 +825,7 @@
                 "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 11054,
+                "stars": 11060,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -876,7 +876,7 @@
                 "open_issues": 126,
                 "owner": "travis-ci",
                 "repo": "travis-ci",
-                "stars": 8488,
+                "stars": 8487,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
@@ -893,11 +893,11 @@
                 "id": 179344069,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T07:59:17Z",
-                "open_issues": 382,
+                "last_commit": "2026-10-11T13:34:20Z",
+                "open_issues": 385,
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
-                "stars": 7976,
+                "stars": 7984,
                 "topics": [
                   "automation",
                   "ci",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:31:38.018Z",
+    "last_updated": "2026-10-11T14:57:59.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "The list of continuous integration services and tools",
