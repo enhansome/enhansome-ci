@@ -175,11 +175,11 @@
                 "id": 16347164,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-06T10:13:12Z",
-                "open_issues": 110,
+                "last_commit": "2026-11-08T05:28:58Z",
+                "open_issues": 114,
                 "owner": "buildkite",
                 "repo": "agent",
-                "stars": 1104,
+                "stars": 1105,
                 "topics": [
                   "buildkite",
                   "cicd",
@@ -236,10 +236,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-07T08:22:36Z",
-                "open_issues": 253,
+                "open_issues": 255,
                 "owner": "dagger",
                 "repo": "dagger",
-                "stars": 16593,
+                "stars": 16596,
                 "topics": [
                   "agents",
                   "caching",
@@ -271,7 +271,7 @@
                 "open_issues": 131,
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38853,
+                "stars": 38855,
                 "topics": [
                   "build-automation",
                   "build-pipelines",
@@ -398,7 +398,7 @@
                 "open_issues": 97,
                 "owner": "gocd",
                 "repo": "gocd",
-                "stars": 7437,
+                "stars": 7436,
                 "topics": [
                   "cd",
                   "ci",
@@ -516,11 +516,11 @@
                 "id": 1103607,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-07T12:04:59Z",
-                "open_issues": 3624,
+                "last_commit": "2026-11-08T12:41:49Z",
+                "open_issues": 3623,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26733,
+                "stars": 26740,
                 "topics": [
                   "cicd",
                   "continuous-delivery",
@@ -582,7 +582,7 @@
                 "open_issues": 16,
                 "owner": "ohwgiles",
                 "repo": "laminar",
-                "stars": 360,
+                "stars": 361,
                 "topics": [
                   "continuous-integration",
                   "cpp",
@@ -825,7 +825,7 @@
                 "open_issues": 0,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 11159,
+                "stars": 11161,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -893,11 +893,11 @@
                 "id": 179344069,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T14:53:16Z",
-                "open_issues": 372,
+                "last_commit": "2026-11-08T11:08:07Z",
+                "open_issues": 369,
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
-                "stars": 8126,
+                "stars": 8132,
                 "topics": [
                   "automation",
                   "ci",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:57:08.258Z",
+    "last_updated": "2026-11-08T15:22:59.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "The list of continuous integration services and tools",
@@ -932,7 +932,7 @@
       "open_issues": 28,
       "owner": "ligurio",
       "repo": "awesome-ci",
-      "stars": 4179,
+      "stars": 4180,
       "topics": [
         "awesome",
         "ci",
