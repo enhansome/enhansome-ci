@@ -209,7 +209,7 @@
                 "open_issues": 168,
                 "owner": "ovh",
                 "repo": "cds",
-                "stars": 4847,
+                "stars": 4848,
                 "topics": [
                   "automation",
                   "continuous-delivery",
@@ -235,11 +235,11 @@
                 "id": 222824662,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T07:44:53Z",
-                "open_issues": 274,
+                "last_commit": "2026-11-15T02:18:38Z",
+                "open_issues": 276,
                 "owner": "dagger",
                 "repo": "dagger",
-                "stars": 16614,
+                "stars": 16617,
                 "topics": [
                   "agents",
                   "caching",
@@ -271,7 +271,7 @@
                 "open_issues": 133,
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38906,
+                "stars": 38912,
                 "topics": [
                   "build-automation",
                   "build-pipelines",
@@ -394,7 +394,7 @@
                 "id": 15155534,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T16:40:55Z",
+                "last_commit": "2026-11-15T12:10:07Z",
                 "open_issues": 97,
                 "owner": "gocd",
                 "repo": "gocd",
@@ -516,11 +516,11 @@
                 "id": 1103607,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-14T13:55:07Z",
-                "open_issues": 3623,
+                "last_commit": "2026-11-15T13:05:33Z",
+                "open_issues": 3622,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26773,
+                "stars": 26775,
                 "topics": [
                   "cicd",
                   "continuous-delivery",
@@ -796,7 +796,7 @@
                 "open_issues": 198,
                 "owner": "semaphoreio",
                 "repo": "semaphore",
-                "stars": 1639,
+                "stars": 1640,
                 "topics": [
                   "build-pipelines",
                   "cd",
@@ -876,7 +876,7 @@
                 "open_issues": 126,
                 "owner": "travis-ci",
                 "repo": "travis-ci",
-                "stars": 8479,
+                "stars": 8480,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.336Z"
@@ -893,11 +893,11 @@
                 "id": 179344069,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T10:47:24Z",
-                "open_issues": 370,
+                "last_commit": "2026-11-15T09:36:30Z",
+                "open_issues": 373,
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
-                "stars": 8195,
+                "stars": 8198,
                 "topics": [
                   "automation",
                   "ci",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:12:00.572Z",
+    "last_updated": "2026-11-15T15:43:46.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "The list of continuous integration services and tools",
@@ -929,7 +929,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-10-06T14:59:44Z",
-      "open_issues": 32,
+      "open_issues": 33,
       "owner": "ligurio",
       "repo": "awesome-ci",
       "stars": 4182,
