@@ -235,11 +235,11 @@
                 "id": 222824662,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T08:59:55Z",
-                "open_issues": 262,
+                "last_commit": "2026-11-22T15:59:18Z",
+                "open_issues": 265,
                 "owner": "dagger",
                 "repo": "dagger",
-                "stars": 16638,
+                "stars": 16639,
                 "topics": [
                   "agents",
                   "caching",
@@ -271,7 +271,7 @@
                 "open_issues": 135,
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38948,
+                "stars": 38955,
                 "topics": [
                   "build-automation",
                   "build-pipelines",
@@ -398,7 +398,7 @@
                 "open_issues": 97,
                 "owner": "gocd",
                 "repo": "gocd",
-                "stars": 7441,
+                "stars": 7439,
                 "topics": [
                   "cd",
                   "ci",
@@ -430,7 +430,7 @@
                 "open_issues": 48,
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
-                "stars": 4165,
+                "stars": 4167,
                 "topics": [
                   "cd",
                   "ci",
@@ -462,7 +462,7 @@
                 "open_issues": 48,
                 "owner": "firecow",
                 "repo": "gitlab-ci-local",
-                "stars": 4165,
+                "stars": 4167,
                 "topics": [
                   "cd",
                   "ci",
@@ -516,11 +516,11 @@
                 "id": 1103607,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-21T16:09:33Z",
-                "open_issues": 3621,
+                "last_commit": "2026-11-22T14:14:39Z",
+                "open_issues": 3624,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26802,
+                "stars": 26801,
                 "topics": [
                   "cicd",
                   "continuous-delivery",
@@ -825,7 +825,7 @@
                 "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 11202,
+                "stars": 11206,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -893,11 +893,11 @@
                 "id": 179344069,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T10:43:07Z",
-                "open_issues": 379,
+                "last_commit": "2026-11-22T16:26:20Z",
+                "open_issues": 376,
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
-                "stars": 8263,
+                "stars": 8265,
                 "topics": [
                   "automation",
                   "ci",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:13:31.472Z",
+    "last_updated": "2026-11-22T16:27:02.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "The list of continuous integration services and tools",
@@ -932,7 +932,7 @@
       "open_issues": 33,
       "owner": "ligurio",
       "repo": "awesome-ci",
-      "stars": 4186,
+      "stars": 4188,
       "topics": [
         "awesome",
         "ci",
